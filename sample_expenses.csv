@@ -1,0 +1,27 @@
+Date,Amount,Type,Category,Merchant,Description,IsRecurring
+2026-09-01,5400,income,Salary,TechCorp Paycheck,Monthly Salary Direct Deposit,true
+2026-09-02,1750,expense,Housing,Skyline Apartments,Monthly Rent Payment,true
+2026-09-03,800,expense,Investments,Vanguard Index Fund,S&P 500 Index Auto-Invest,true
+2026-09-05,145,expense,Utilities,City Power & Fiber,Electricity and High Speed Wifi,true
+2026-09-07,55,expense,Transportation,Shell Station,Gasoline Refuel,false
+2026-09-08,19.99,expense,Subscriptions,Netflix Premium,4K Streaming Service,true
+2026-09-10,165,expense,Food & Dining,Whole Foods,Groceries & Organic Produce,false
+2026-09-12,14.99,expense,Subscriptions,Spotify Family,Music Streaming Subscription,true
+2026-09-14,210,expense,Shopping,Amazon Prime,Home Goods and Office Supplies,false
+2026-09-15,920,income,Freelance,Upwork Global,UI/UX Design Retainer,false
+2026-09-18,29,expense,Subscriptions,OpenAI ChatGPT,AI Assistant Subscription,true
+2026-09-20,84,expense,Food & Dining,Artisan Bistro,Dinner with Team,false
+2026-09-22,62,expense,Transportation,Shell Station,Gasoline Refuel,false
+2026-09-24,780,expense,Shopping,Apple Store,Wireless Headphones & Accessories,false
+2026-08-01,5400,income,Salary,TechCorp Paycheck,Monthly Salary Direct Deposit,true
+2026-08-02,1750,expense,Housing,Skyline Apartments,Monthly Rent Payment,true
+2026-08-05,152,expense,Utilities,City Power & Fiber,Electricity and Wifi,true
+2026-08-11,178,expense,Food & Dining,Trader Joes,Weekly Groceries,false
+2026-08-15,840,income,Freelance,Upwork Global,Design Project,false
+2026-08-19,720,expense,Healthcare,Valley Dental,Emergency Dental Procedure,false
+2026-08-25,95,expense,Food & Dining,Sushi Bar,Weekend Dinner,false
+2026-07-01,5400,income,Salary,TechCorp Paycheck,Monthly Salary Direct Deposit,true
+2026-07-02,1750,expense,Housing,Skyline Apartments,Monthly Rent Payment,true
+2026-07-05,138,expense,Utilities,City Power & Fiber,Electricity and Wifi,true
+2026-07-14,142,expense,Food & Dining,Whole Foods,Groceries,false
+2026-07-25,890,expense,Shopping,Apple Store,iPad Pro Tablet,false
